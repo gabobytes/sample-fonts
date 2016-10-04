@@ -1,0 +1,32 @@
+@font-face{
+	font-family: 'Antonio';
+	src:url('../fonts/Antonio-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'Montserrat';
+	src:url('../fonts/MontserratAlternates-Regular.otf');
+}
+
+@font-face{
+	font-family: 'Aller';
+	src:url('../fonts/Aller_Rg.ttf');
+}
+
+section > h1{
+	font-family: 'Montserrat';
+	color:#1695A3;
+
+}
+
+#font1{
+	font-family: 'Antonio';
+	font-size:2.5em;
+	color:#EB7F00;
+}
+
+section > p{
+	font-family: 'Aller';
+	font-size: 24px;
+	color: #225378;
+}
